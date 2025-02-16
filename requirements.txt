@@ -1,0 +1,6 @@
+Flask
+selenium
+yt-dlp
+webdriver-manager
+chromedriver-autoinstaller
+gunicorn
